@@ -1,5 +1,7 @@
 {
   "imports": {
+    "deco-sites/pixrecarga/": "./",
+
     "deco-sites/links/": "./",
     "$store/": "./",
     "$live/": "https://denopkg.com/deco-cx/live@1.12.2/",
